@@ -1,0 +1,6 @@
+{
+  "name": "Noteify",
+  "description": "Noteify is a premium AI-powered educational productivity platform developed by Lumera Labs to transform study materials into exam-ready notes, flashcards, and mind maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
